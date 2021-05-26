@@ -1,0 +1,14 @@
+C:\Users\JDMil\OneDrive\Desktop\Projects\ExtraAssignmentsDay3pt1\ExtraAssignmentsDay3pt1\bin\Debug\ExtraAssignmentsDay3pt1.exe.config
+C:\Users\JDMil\OneDrive\Desktop\Projects\ExtraAssignmentsDay3pt1\ExtraAssignmentsDay3pt1\bin\Debug\ExtraAssignmentsDay3pt1.exe
+C:\Users\JDMil\OneDrive\Desktop\Projects\ExtraAssignmentsDay3pt1\ExtraAssignmentsDay3pt1\bin\Debug\ExtraAssignmentsDay3pt1.pdb
+C:\Users\JDMil\OneDrive\Desktop\Projects\ExtraAssignmentsDay3pt1\ExtraAssignmentsDay3pt1\obj\Debug\ExtraAssignmentsDay3pt1.csprojAssemblyReference.cache
+C:\Users\JDMil\OneDrive\Desktop\Projects\ExtraAssignmentsDay3pt1\ExtraAssignmentsDay3pt1\obj\Debug\ExtraAssignmentsDay3pt1.csproj.CoreCompileInputs.cache
+C:\Users\JDMil\OneDrive\Desktop\Projects\ExtraAssignmentsDay3pt1\ExtraAssignmentsDay3pt1\obj\Debug\ExtraAssignmentsDay3pt1.exe
+C:\Users\JDMil\OneDrive\Desktop\Projects\ExtraAssignmentsDay3pt1\ExtraAssignmentsDay3pt1\obj\Debug\ExtraAssignmentsDay3pt1.pdb
+C:\Users\JDMil\OneDrive\Desktop\Projects\ExtraAssignmentsforClass\ExtraAssignmentsDay3pt1\ExtraAssignmentsDay3pt1\bin\Debug\ExtraAssignmentsDay3pt1.exe.config
+C:\Users\JDMil\OneDrive\Desktop\Projects\ExtraAssignmentsforClass\ExtraAssignmentsDay3pt1\ExtraAssignmentsDay3pt1\bin\Debug\ExtraAssignmentsDay3pt1.exe
+C:\Users\JDMil\OneDrive\Desktop\Projects\ExtraAssignmentsforClass\ExtraAssignmentsDay3pt1\ExtraAssignmentsDay3pt1\bin\Debug\ExtraAssignmentsDay3pt1.pdb
+C:\Users\JDMil\OneDrive\Desktop\Projects\ExtraAssignmentsforClass\ExtraAssignmentsDay3pt1\ExtraAssignmentsDay3pt1\obj\Debug\ExtraAssignmentsDay3pt1.csprojAssemblyReference.cache
+C:\Users\JDMil\OneDrive\Desktop\Projects\ExtraAssignmentsforClass\ExtraAssignmentsDay3pt1\ExtraAssignmentsDay3pt1\obj\Debug\ExtraAssignmentsDay3pt1.csproj.CoreCompileInputs.cache
+C:\Users\JDMil\OneDrive\Desktop\Projects\ExtraAssignmentsforClass\ExtraAssignmentsDay3pt1\ExtraAssignmentsDay3pt1\obj\Debug\ExtraAssignmentsDay3pt1.exe
+C:\Users\JDMil\OneDrive\Desktop\Projects\ExtraAssignmentsforClass\ExtraAssignmentsDay3pt1\ExtraAssignmentsDay3pt1\obj\Debug\ExtraAssignmentsDay3pt1.pdb
